@@ -2,7 +2,7 @@
   "framework": "jasmine2",
   "src_files": [
     "01_bst/*.js",
-    "02_hashtables/*.js",
+    "02_hashtable/*.js",
     "03_extra_credit/graph/*.js",
     "03_extra_credit/graph/utils/*.js",
     "03_extra_credit/queue/*.js"
