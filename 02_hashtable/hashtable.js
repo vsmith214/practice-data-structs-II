@@ -13,7 +13,6 @@ const HashTable = function() {
     
         if(!this[hashKey]) this[hashKey] = new LinkedList();
         this[hashKey].addToTail({ [key]: val});
-        console.log(this[hashKey]);
     }
 
     HashTable.prototype.hasKey = function(key) {
